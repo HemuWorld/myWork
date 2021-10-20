@@ -1,0 +1,8 @@
+Day 2:
+    1. Ques: Priority order of tag, class and id within a sheet? 
+    Ans: The priority with a sheet should be id>clas>tag.
+
+    2. Ques: Difference between height 100vh and 100%?
+    Ans. The difference is that: 
+            vh: stands for viewport height means it will take height according to viewport. Thus 100vh = 100% of viewport height thus if we you sreen the viewport height == 1980 then it will take 1980 height.
+            100%: Element which is relative to the size of parent. Thus if a element have height=5px and we see that take 100% of it thus it will take 5px.
